@@ -1,0 +1,19 @@
+div.buildings-bar{
+    fill: orange;
+}
+.bar:hover{
+    fill: red;
+}
+
+img.image{
+    margin-top: 74px;
+    margin-bottom: 10px;
+}
+
+div.city-count{
+    padding: 20px;
+}
+
+div.population-plot{
+    padding:20px;
+}
